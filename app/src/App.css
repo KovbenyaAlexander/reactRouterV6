@@ -1,0 +1,18 @@
+.nav {
+  width: 500px;
+  display: flex;
+  justify-content: space-around;
+  margin: auto;
+  background-color: rgba(128, 128, 128, 0.596);
+}
+
+.Page {
+  width: 500px;
+  margin: auto;
+  background-color: rgba(0, 0, 255, 0.37);
+}
+
+.navPage {
+  width: 500px;
+  margin: auto;
+}
